@@ -17,10 +17,10 @@
                 Watches
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Steel</a>
-                <a href="" class="dropdown-item">Leather</a>
-                <a href="" class="dropdown-item">Digital</a>
-                <a href="" class="dropdown-item">All Watches</a>
+                <a href="{% url 'products' %}?category=steel" class="dropdown-item">Steel</a>
+                <a href="{% url 'products' %}?category=leather" class="dropdown-item">Leather</a>
+                <a href="{% url 'products' %}?category=digital" class="dropdown-item">Digital</a>
+                <a href="{% url 'products' %}?category=steel,leather,digital" class="dropdown-item">All Watches</a>
             </div>
         </li>
         <li class="nav-item dropdown">
@@ -28,10 +28,10 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Deals</a>
-                <a href="" class="dropdown-item">Clearance</a>
-                <a href="" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
+                <a href="{% url 'products' %}?category=new_arrivals,deals,clearance" class="dropdown-item">All Specials</a>
             </div>
         </li>
     </ul>
