@@ -6,7 +6,7 @@
       "name": "Pink Smart",
       "description": "Modern pink and white smart watch",
       "price": 73.99,
-      "category": 6,
+      "category": 3,
       "rating": 4.6,
       "image_url": "https://www.pexels.com/sv-se/foto/apple-kontor-forbindelse-teknologi-393047/",
       "image": "DP0709201205510679M.jpg"
@@ -20,7 +20,7 @@
       "name": "Black Smart",
       "description": "Black smart watch in modern style",
       "price": 58.99,
-      "category": 4,
+      "category": 3,
       "rating": 4.6,
       "image_url": "https://www.pexels.com/sv-se/foto/apple-watch-produktbild-vit-yta-elektronisk-pryl-9130515/",
       "image": "DP0113201617034987M.jpg"
@@ -34,7 +34,7 @@
       "name": "Royal Velvet Steel",
       "description": "Stainless steel watch",
       "price": 205.99,
-      "category": 2,
+      "category": 1,
       "rating": 4.7,
       "image_url": "https://www.pexels.com/sv-se/foto/tra-armbandsur-tid-klocka-190819/",
       "image": "DP1230201417013175M.jpg"
@@ -48,7 +48,7 @@
       "name": "Pink smartwatch",
       "description": "New pink smart watch",
       "price": 169.99,
-      "category": 7,
+      "category": 3,
       "rating": 3,
       "image_url": "https://www.pexels.com/sv-se/foto/apple-teknologi-tid-klocka-1682821/",
       "image": "DP0716201503423610M.jpg"
@@ -62,7 +62,7 @@
       "name": "Leather pink analog",
       "description": "Analog pink watch in nice leather band",
       "price": 232.99,
-      "category": 7,
+      "category": 2,
       "rating": 5,
       "image_url": "https://www.pexels.com/sv-se/foto/kaffe-anteckningsbok-armbandsur-dryck-1162519/",
       "image": "DP1115201210371197C.jpg"
@@ -76,7 +76,7 @@
       "name": "Black and rose gold steel watch",
       "description": "Steel watch in color black/rose gold",
       "price": 30.99,
-      "category": 9,
+      "category": 1,
       "rating": 4.7,
       "image_url": "https://www.pexels.com/sv-se/foto/armbandsur-oskarpa-siffror-tid-2113994/",
       "image": "DP0624201520422666C.jpg"
@@ -90,7 +90,7 @@
       "name": "Leather analog",
       "description": "Black leather analog watch",
       "price": 59,
-      "category": 4,
+      "category": 2,
       "rating": 4.4,
       "image_url": "https://www.pexels.com/sv-se/foto/tid-tillbehor-klockor-armbandsur-1697218/",
       "image": "DP0226201317034754M.jpg"
@@ -104,7 +104,7 @@
       "name": "Gold watch with leather",
       "description": "Gold watch with black leather band",
       "price": 36.99,
-      "category": 7,
+      "category": 2,
       "rating": 4.5,
       "image_url": "https://www.pexels.com/sv-se/foto/armbandsur-vintage-tid-klocka-1120275/",
       "image": "DP0926201317071162M.jpg"
@@ -118,7 +118,7 @@
       "name": "Protech Performance Steel",
       "description": "Stainless steel watch",
       "price": 169.99,
-      "category": 2,
+      "category": 1,
       "rating": 4.7,
       "image_url": "https://www.pexels.com/sv-se/foto/analog-armbandsur-chrome-detalj-280250/",
       "image": "DP1020201517025390M.jpg"
