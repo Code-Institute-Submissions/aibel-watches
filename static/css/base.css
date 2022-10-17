@@ -6,7 +6,7 @@ body {
     background: url('/media/pexels-matej-1034425.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #555;
+    color: rgb(95, 95, 95);
     font-family: 'Lato';
 }
 
@@ -29,12 +29,12 @@ body {
 
 .shop-now-button {
     background: black;
-    color: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
     min-width: 260px;
 }
 
 .btn-black {
-    background: black;
+    background: rgb(99, 99, 99);
     color: rgb(255, 255, 255);
 }
 
@@ -49,11 +49,15 @@ body {
 }
 
 .text-black {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(100, 98, 98) !important;
 }
 
 .border-black {
     border: 1px solid rgb(0, 0, 0) !important;
+}
+
+.bg-black {
+    background: rgb(105, 105, 105) !important;
 }
 
 /* -------------------------------- Media Queries */
