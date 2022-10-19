@@ -84,7 +84,7 @@ body {
 }
 
 a.category-badge > span.badge:hover {
-    background: #212529 !important;
+    background: #23272b !important;
     color: #fff !important;
 }
 
@@ -137,7 +137,7 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-secondary {
-    border-bottom-color: #6c757d !important;
+    border-bottom-color: #cad2d8 !important;
 }
 
 .arrow-success {
@@ -161,7 +161,7 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-dark {
-    border-bottom-color: #343a40 !important;
+    border-bottom-color: #e0e5e9 !important;
 }
 
 .bag-notification-wrapper {
@@ -183,7 +183,7 @@ a.category-badge > span.badge:hover {
 
 .allauth-form-inner-content p {
     margin-top: 1.5rem; /* mt-4 */
-    color: #6c757d; /* text-secondary */
+    color: #d8dfe6; /* text-secondary */
 }
 
 .allauth-form-inner-content input {
@@ -230,7 +230,7 @@ a.category-badge > span.badge:hover {
 }
 
 .allauth-form-inner-content a {
-	color: #17a2b8; /* text-info */
+	color: #ffffff; /* text-info */
 }
 
 /* Product Form */
@@ -252,12 +252,12 @@ a.category-badge > span.badge:hover {
 
 .custom-checkbox .custom-control-label::before {
     border-radius: 0;
-    border-color: #dc3545;
+    border-color: #ffffff;
 }
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background-color: #dc3545;
-    border-color: #dc3545;
+    background-color: #ffffff;
+    border-color: #ffffff;
     border-radius: 0;
 }
 
