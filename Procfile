@@ -1,0 +1,1 @@
+web: gunicorn aibel_watches.wsgi:application
