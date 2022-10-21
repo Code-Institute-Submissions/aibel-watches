@@ -322,23 +322,3 @@ a.category-badge > span.badge:hover {
         padding: .25rem .5rem !important;
     }
 }
-
-/* Footer */
-
-.footer {
-    background-color: aliceblue;
-    color: #4dad7d;
-    font-family: Merienda;
-    font-size: large;
-    text-transform: uppercase;
-    text-align: center;
-    padding: 5px;
-    padding-top: 15px;
-    margin-top: 10px;
-}
-
-.footer-par {
-    font-family: Lora;
-    font-size: medium;
-    color: #4dad7d;
-}
