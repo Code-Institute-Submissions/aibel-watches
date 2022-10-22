@@ -56,6 +56,20 @@ No errors were found when passing through the official (jigsaw) validator.
 
 ![2022-10-21 (1)](https://user-images.githubusercontent.com/106691587/197317938-e448b2be-6790-4b05-9c0d-e349f800cd0b.png)
 
+# Technologies Used:
+For this project, the following technologies were used.
+
+Languages:
+HTML
+CSS
+Python
+Javascript
+
+Frameworks, Libraries, Programs & Applications Used:
+Django
+PostgreSQL
+Bootstrap
+
 
 # Deployment
 The site was deployed to Heroku pages. 
